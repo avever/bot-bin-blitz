@@ -54,3 +54,10 @@ lib-cov
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/codeStyles/Project.xml
+/.idea/modules.xml
+/.idea/.gitignore
+/.idea/bot-bin-blitz.iml
+/.idea/codeStyles/codeStyleConfig.xml
